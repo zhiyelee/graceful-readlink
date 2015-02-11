@@ -1,0 +1,19 @@
+{
+  "name": "graceful-readlink",
+  "version": "1.0.0",
+  "description": "graceful fs.readlink",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "fs.readlink",
+    "readlink"
+  ],
+  "author": "zhiyelee",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
