@@ -6,7 +6,7 @@
 ## Usage
 
 ```js
-var readlinkSync = require('graceful-readlink');
+var readlinkSync = require('graceful-readlink').readlinkSync;
 console.log(readlinkSync(f));
 // output
 //  the file pointed to when `f` is a symbolic link

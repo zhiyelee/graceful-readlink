@@ -7,6 +7,6 @@ exports.readlinkSync = function (p) {
   } else {
     return p;
   }
-}
+};
 
 
